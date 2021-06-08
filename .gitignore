@@ -1,0 +1,4 @@
+*pyc
+__pycache__
+.vscode
+2_ips.txt
